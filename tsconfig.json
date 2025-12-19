@@ -1,0 +1,30 @@
+{
+  "extends": "expo/tsconfig.base.json",
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@/*": [
+        "./client/*"
+      ],
+      "@shared/*": [
+        "./shared/*"
+      ]
+    },
+    "moduleResolution": "bundler",
+    "jsx": "react-native",
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "dist",
+    "**/*.test.ts"
+  ],
+}

@@ -1,0 +1,231 @@
+📱 APP STRUCTURE (Clean & Presentable)
+🔹 Common Pages (Both Roles)
+1️⃣ App Logo + Splash Screen
+
+Hostel logo
+
+App name (example ideas below 👇)
+
+Name ideas:
+
+HostelEase
+
+StaySmart
+
+KEC Hostel Hub
+
+MyHostel+
+
+2️⃣ Login / Register Page
+
+✔ Register as Student / Admin
+✔ Login via:
+
+Register Number / Staff ID
+
+Phone + OTP
+✔ Role-based redirection
+
+Student → Student Dashboard
+
+Admin → Admin Dashboard
+
+🔥 Judges like “role-based routing” keyword
+
+🎓 STUDENT SIDE
+3️⃣ Student Profile Page
+
+Name
+
+Room Number
+
+Hostel Block
+
+Change Password
+
+Logout
+
+4️⃣ Student Dashboard (Main Screen)
+
+Quick overview cards:
+
+🍽 Today’s Menu
+
+✅ Attendance Status
+
+📝 Leave Request Status
+
+🚨 Complaint Status
+
+📢 Latest Announcements (preview)
+
+💡 This is perfect UX — one-glance info
+
+5️⃣ Digital Mess Menu
+
+Date-wise menu (Past / Today / Upcoming)
+
+Breakfast / Lunch / Dinner tabs
+
+Special menu days (festival / event)
+
+⭐ Menu Suggestion:
+
+Vote
+
+Suggest dish
+
+🔥 Extra credit feature
+
+6️⃣ Attendance Page
+
+📸 Geo-camera photo capture
+
+📍 Location restricted to hostel area
+
+⏰ Time-based marking
+
+Monthly attendance percentage
+
+Reason if absent (optional)
+
+⚡ Very strong feature (AI + geo + security)
+
+7️⃣ Leave / Stay Request Page
+
+Upload leave/stay application (PDF / image)
+
+From Date → To Date
+
+Reason
+
+Status tracking:
+
+Pending
+
+Approved
+
+Rejected
+
+8️⃣ Complaint Page
+
+Complaint Type:
+
+Water
+
+Electricity
+
+Cleaning
+
+Food
+
+Others
+
+Features:
+
+Description
+
+Optional photo
+
+🔒 Anonymous Mode ON
+
+Status tracking:
+
+Submitted
+
+In Progress
+
+Resolved
+
+🔥 Anonymous complaint = BIG plus
+
+9️⃣ Announcements Page
+
+Hostel notices
+
+Emergency alerts
+
+Holiday information
+
+🔟 Room Details Page
+
+Room number
+
+Block
+
+Roommates list
+
+🛠 ADMIN SIDE
+1️⃣ Admin Dashboard
+
+Total students
+
+Complaint count
+
+Pending leave requests
+
+Attendance summary (today / month)
+
+2️⃣ Mess Menu Management
+
+Add / update daily menu
+
+Upload special menu
+
+View student menu suggestions
+
+3️⃣ Attendance Management
+
+Mark attendance
+
+View block-wise / room-wise
+
+Export attendance (Excel / PDF)
+
+4️⃣ Leave Approval Page
+
+View leave requests
+
+Approve / Reject
+
+🚨 Emergency leave highlight
+
+5️⃣ Complaint Management (Anonymous View)
+
+No student identity shown
+
+Category + description + photo
+
+Change status:
+
+In Progress
+
+Resolved
+
+Admin remarks
+
+6️⃣ Room Allotment
+
+Assign rooms
+
+View occupancy
+
+Vacant room list
+
+Room change approval
+
+7️⃣ Announcements Management
+
+Create announcements
+
+Push notifications
+
+Emergency broadcast
+
+8️⃣ Admin Profile & Settings
+
+Change password
+
+Logout
+
+Admin roles (future scope)
